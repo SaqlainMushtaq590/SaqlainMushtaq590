@@ -1,7 +1,9 @@
 <!-- 🌟 GitHub Profile Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&width=700&center=true&lines=Hi+there%2C+I'm+Saqlain+Mushtaq!;Software+Engineering+Student+%7C+Programmer;Skilled+in+C%2B%2B%2C+JavaScript%2C+HTML%2C+CSS%2C+Python;Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=24&duration=5000&pause=1000&color=58A6FF&width=700&center=true&lines=Hi+there%2C+I'm+Saqlain+Mushtaq!;Software+Engineering+Student+%7C+Programmer;Skilled+in+C%2B%2B%2C+JavaScript%2C+HTML%2C+CSS%2C+Python;Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" />
 </p>
+
+
 
 
 <h1 align="center">SAQLAIN MUSHTAQ</h1>
