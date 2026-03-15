@@ -44,12 +44,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=saqlainmushtaq590&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-</p>
 
 ---
 
@@ -61,11 +58,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-
-![Snake animation](https://github.com/saqlainmushtaq590/saqlainmushtaq590/blob/output/github-contribution-grid-snake.svg)
-
-</p>
+![Snake animation](https://github.com/SaqlainMushtaq590/SaqlainMushtaq590/blob/output/github-contribution-grid-snake.svg)>
 
 ---
 
