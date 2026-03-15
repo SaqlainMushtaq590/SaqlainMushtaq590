@@ -25,9 +25,9 @@
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saqlainmushtaq590&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainmushtaq590&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqlainmushtaq590&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -46,8 +46,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=saqlainmushtaq590&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
@@ -55,7 +55,7 @@
 
 ## 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saqlainmushtaq590&theme=tokyo-night"/>
 
 ---
 
@@ -63,7 +63,7 @@
 
 <p align="center">
 
-<img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg"/>
+![Snake animation](https://github.com/saqlainmushtaq590/saqlainmushtaq590/blob/output/github-contribution-grid-snake.svg)
 
 </p>
 
@@ -73,15 +73,15 @@
 
 <p align="center">
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/saqlainmushtaq590">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/saqlain-mushtaq-844312380/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
+<a href="saqlainmushtaq.se.2428@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -93,7 +93,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Visitors&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=saqlainmushtaq590&label=Visitors&color=blue&style=for-the-badge"/>
 
 </p>
 
