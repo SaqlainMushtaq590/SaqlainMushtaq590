@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile;Hi+I'm+Saqlian+Mushtaq;Developer+%7C+Tech+Enthusiast;Building+Cool+Projects+🚀" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=230&section=header&text=Database%20Normalization&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=UNF%20→%201NF%20→%202NF%20→%203NF%20%7C%20Hospital%20Patient%20Visits&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
 ---
 
 ## 🚀 About Me
